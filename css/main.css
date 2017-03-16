@@ -1,0 +1,19 @@
+/*h1{
+  text-align: center;
+  background-color: white;
+
+
+}
+input{
+  text-align: center;
+}*/
+body{
+  text-align: center;
+ z-index: -20;
+  background-image: url("http://static.boredpanda.com/blog/wp-content/uploads/2015/04/night-sky-stars-milky-way-photography-22__880.jpg");
+
+
+}
+h1{
+  color: red;
+}
